@@ -16,3 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/tentang', [App\Http\Controllers\TentangController::class, 'index']);
+Route::get('/kontak', [App\Http\Controllers\KontakController::class, 'index']);
+Route::get('/bergabung', [App\Http\Controllers\BergabungController::class, 'index']);
+

@@ -26,10 +26,10 @@
 
 			<div class="collapse navbar-collapse" id="ftco-nav">
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item active"><a href="index.html" class="nav-link">Beranda</a></li>
-					<li class="nav-item"><a href="about.html" class="nav-link">Tentang</a></li>
-					<li class="nav-item"><a href="contact.html" class="nav-link">Kontak</a></li>
-					<li class="nav-item"><a href="JoinIEEE.html" class="nav-link">Bergabung</a></li>
+					<li class="nav-item active"><a href="/" class="nav-link">Beranda</a></li>
+					<li class="nav-item"><a href="/tentang" class="nav-link">Tentang</a></li>
+					<li class="nav-item"><a href="/kontak" class="nav-link">Kontak</a></li>
+					<li class="nav-item"><a href="/bergabung" class="nav-link">Bergabung</a></li>
 				</ul>
 			</div>
 		</div>
@@ -104,7 +104,7 @@
 						</div>
 
 						<p>Dalam era digital yang terus berkembang, ARU TEKNOLOGI muncul sebagai pelopor dalam solusi teknologi berbasis cloud. Dalam dunia yang semakin terhubung dan cepat berubah, kami menyadari tantangan yang dihadapi bisnis dalam beradaptasi dengan kemajuan teknologi yang pesat. Kami berkomitmen untuk memberdayakan bisnis dengan memanfaatkan kemampuan komputasi awan, memungkinkan mereka untuk beradaptasi dan berkembang di tengah lanskap yang semakin kompleks. Selain itu, kami tidak hanya menyediakan solusi cloud; kami juga menawarkan layanan pemeliharaan menyeluruh yang dirancang untuk memastikan sistem dan aplikasi klien kami tetap optimal dan efisien. Dengan layanan pemeliharaan kami, bisnis dapat fokus pada operasi inti mereka sementara kami mengelola semua aspek teknis dan pemeliharaan infrastruktur cloud mereka.</p>
-						<p><a href="contact.html" class="btn btn-primary">Contact Us</a></p>
+						<p><a href="https://wa.me/6282258280517" class="btn btn-primary">Kontak Kami</a></p>
 					</div>
 				</div>
 			</div>
