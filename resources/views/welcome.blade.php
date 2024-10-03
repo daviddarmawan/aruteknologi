@@ -3,6 +3,7 @@
 
 <head>
 	<title>ARUTEKNOLOGI | Teknologi Digital</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flaticon/css/flaticon.css">
     <link rel="icon" href="/images/logo2.png" type="image/x-icon" />
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -84,7 +85,7 @@
 						<div class="icon text-center"><span class="flaticon-handshake"></span></div>
 						<div class="media-body">
 							<h3 class="heading mb-3 text-center">Klien</h3>
-							<p>Past 25+ college collaborations</p>
+							<p>29 klien yang telah bergabung</p>
 						</div>
 					</div>
 				</div>
@@ -92,8 +93,8 @@
 					<div class="media block-6 services d-block">
 						<div class="icon text-center"><span class="flaticon-guest"></span></div>
 						<div class="media-body">
-							<h3 class="heading mb-3 text-center">Participations</h3>
-							<p>Participation from colleges across the country</p>
+							<h3 class="heading mb-3 text-center">Projek</h3>
+							<p>Lebih dari 35 proyek yang berhasil dilaksanakan bersama klien.</p>
 						</div>
 					</div>
 				</div>
@@ -194,111 +195,27 @@
 
 		<div class="container">
 		  <div class="section-header">
-			<h2>Past Technical Sponsors</h2>
+			<h2>Klien</h2>
 		  </div>
   
 		  <div class="d-flex flex-row justify-content-center align-contents-center row no-gutters supporters-wrap clearfix">
   
 			<div class="col-lg-3 col-md-4 col-xs-6">
 			  <div class="supporter-logo" style="margin: auto;">
-				<a href="https://www.geeksforgeeks.org/"><img src="images/sponsors/gfg.png" class="img-fluid" alt=""></a>
+				<a href=""><img src="images/klien/fortuna.png" class="img-fluid" alt=""></a>
 			  </div>
 			</div>
 			
 			<div class="col-lg-3 col-md-4 col-xs-6">
 			  <div class="supporter-logo">
-				<a href="https://www.voiceflow.com/"><img src="images/sponsors/voiceflow.png" class="img-fluid" alt=""></a>
+				<a href="/"><img src="images/klien/keiga.png " class="img-fluid" aalt="" width="150" height="auto"></a>
 			  </div>
 			</div>
-		  </div>
-		</div>
-  
-		<div class="container">
-		  <div class="section-header">
-			<h2>Hackathon Sponsors</h2>
-		  </div>
-  
-		  <div class="d-flex flex-row justify-content-center align-contents-center row no-gutters supporters-wrap clearfix">
-  
-			<div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="col-lg-3 col-md-4 col-xs-6">
 			  <div class="supporter-logo">
-				<a href="https://www.taskade.com/"><img src="images/sponsors/taskade.png" class="img-fluid" alt=""></a>
+				<a href="/"><img src="images/klien/rotibakar.png " class="img-fluid" aalt="" width="150" height="auto"></a>
 			  </div>
 			</div>
-			
-			<div class="col-lg-3 col-md-4 col-xs-6">
-			  <div class="supporter-logo">
-				<a href="https://heiphen.com/"><img src="images/sponsors/heiphen.png" class="img-fluid" alt=""></a>
-			  </div>
-			</div>
-		  </div>
-		</div>
-  
-		<div class="container">
-		  <div class="section-header">
-			<h2>Media Partners</h2>
-		  </div>
-  
-		  <div class="d-flex flex-row justify-content-center align-contents-center row no-gutters supporters-wrap clearfix">
-  
-			<div class="col-lg-3 col-md-4 col-xs-6">
-			  <div class="supporter-logo">
-				<a href="https://www.noticebard.com/"><img src="images/sponsors/noticbard.png" class="img-fluid" alt=""></a>
-			  </div>
-			</div>
-			
-			<div class="col-lg-3 col-md-4 col-xs-6">
-			  <div class="supporter-logo">
-				<a href="https://youthincmag.com/"><img src="images/sponsors/youth.png" class="img-fluid" alt=""></a>
-			  </div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-xs-6">
-			  <div class="supporter-logo">
-				<a href="https://www.startupnews.fyi/"><img src="images/sponsors/startupnews.png" class="img-fluid" alt=""></a>
-			  </div>
-			</div>
-		  </div>
-		</div>
-  
-		<div class="container">
-		  <div class="section-header">
-			<h2>Education Partners</h2>
-		  </div>
-  
-		  <div class="d-flex flex-row justify-content-center align-contents-center row no-gutters supporters-wrap clearfix">
-  
-			<div class="col-lg-3 col-md-4 col-xs-6">
-			  <div class="supporter-logo">
-				<a href="https://www.jetbrains.com/"><img src="images/sponsors/jetbrains.png" class="img-fluid" alt=""></a>
-			  </div>
-			</div>
-			
-			<div class="col-lg-3 col-md-4 col-xs-6">
-			  <div class="supporter-logo">
-				<a href="https://balsamiq.com/"><img src="images/sponsors/balsamiq.png" class="img-fluid" alt=""></a>
-			  </div>
-			</div>
-  
-			<div class="col-lg-3 col-md-4 col-xs-6">
-			  <div class="supporter-logo">
-				<a href="http://padhakku.com/"><img src="images/sponsors/padhakku.PNG" class="img-fluid" alt=""></a>
-			  </div>
-			</div>
-		  </div>
-		</div>
-		<div class="container">
-		  <div class="section-header">
-			<h2>Certificate Partner</h2>
-		  </div>
-  
-		  <div class="d-flex flex-row justify-content-center align-contents-center row no-gutters supporters-wrap clearfix">
-  
-			<div class="col-lg-3 col-md-4 col-xs-6">
-			  <div class="supporter-logo">
-				<a href=""><img src="images/sponsors/gmc.png" class="img-fluid" alt=""></a>
-			  </div>
-			</div>
-		  
 		  </div>
 		</div>
 	  </section>
@@ -311,8 +228,8 @@
 			<div class="row mb-5">
 				<div class="col-md">
 					<div class="ftco-footer-widget mb-4">
-						<h2 class="ftco-heading-2">IEEE Chandigarh Subsection</h2>
-						<p>IEEE is one of the largest technical societies . It is an exemplary platform for students to polish their technical skillset and helps them in their personal professional growth.</p>
+						<h2 class="ftco-heading-2">ARU Teknologi</h2>
+						<p>ARUTEKNOLOGI: Pelopor solusi cloud, kami memberdayakan bisnis untuk beradaptasi di era digital.</p>
 						<ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
 							<li class="ftco-animate"><a href="https://www.linkedin.com/company/ieeedelhissn/"><span class="icon-linkedin"></span></a></li>
 							<li class="ftco-animate"><a href="https://www.facebook.com/ieeedelhissn"><span class="icon-facebook"></span></a></li>
@@ -326,33 +243,21 @@
 						<h2 class="ftco-heading-2">References</h2>
 						<ul class="list-unstyled">
 							<!-- <li><a href="speakers.html" class="py-2 d-block">Speakers</a></li> -->
-							<li><a href="https://www.ieee.org/" class="py-2 d-block">IEEE.org</a></li>
-							<li><a href="https://ieeexplore.ieee.org/Xplore/home.jsp" class="py-2 d-block">IEEE Xplore Digital Library</a></li>
-							<li><a href="https://standards.ieee.org/" class="py-2 d-block">IEEE Standards</a></li>
-							<li><a href="https://spectrum.ieee.org/" class="py-2 d-block">IEEE Spectrum</a></li>
+							<li><a href="https://www.aruteknologi.com/" class="py-2 d-block">aruteknologi.com</a></li>
 
 						</ul>
 					</div>
 				</div>
 				
-				<!-- div class="col-md">
-					<div class="ftco-footer-widget mb-4">
-						<h2 class="ftco-heading-2">Privacy</h2>
-						<ul class="list-unstyled">
-							<li><a href="about.html" class="py-2 d-block">About Us</a></li>
-							<li><a href="contact.html" class="py-2 d-block">Contact Us</a></li>
-							<li><a href="team.html" class="py-2 d-block">Team</a></li>
-						</ul>
-					</div>
-				</div -->
 				<div class="col-md">
 					<div class="ftco-footer-widget mb-4">
 						<h2 class="ftco-heading-2">Contact Us</h2>
 						<div class="block-23 mb-3">
 							<ul>
-								<li><span class="icon icon-map-marker"></span><span class="text">Chandigarh, India</span></li>
+								<li><span class="icon icon-map-marker"></span><span class="text">Jakarta, Indoneisa</span></li>
+                                <li><span class="icon icon-map-marker"></span><span class="text">+62 822-5828-0517</span></li>
 								<li><a href="#"><span class="icon icon-envelope"></span><span
-											class="text">ieeechandigarhsubsection@gmail.com</span></a></li>
+											class="text">aruteknologi@gmail.com</span></a></li>
 							</ul>
 						</div>
 					</div>
@@ -362,10 +267,8 @@
 				<div class="col-md-12 text-center">
 
 					<p>
-						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 						Copyright &copy;
 						<script>document.write(new Date().getFullYear());</script> All rights reserved </a>
-						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 					</p>
 				</div>
 			</div>
