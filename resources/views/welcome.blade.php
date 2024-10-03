@@ -191,7 +191,7 @@
   
 			<div class="col-lg-3 col-md-4 col-xs-6">
 			  <div class="supporter-logo" style="margin: auto;">
-				<a href=""><img src="images/klien/fortuna.png" class="img-fluid" alt=""></a>
+			  <a href="/"><img src="images/klien/fortuna.png " class="img-fluid" aalt="" width="190" height="auto"></a>
 			  </div>
 			</div>
 			
