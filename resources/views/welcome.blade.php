@@ -225,9 +225,9 @@
 						<h2 class="ftco-heading-2">ARU Teknologi</h2>
 						<p>ARUTEKNOLOGI: Pelopor solusi cloud, kami memberdayakan bisnis untuk beradaptasi di era digital.</p>
 						<ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-						<li class="ftco-animate"><a href="https://www.linkedin.com/company/ieeedelhissn/"><img src="/images/linkedin.png" alt="LinkedIn" width="45" height="45" class="icon-image"></a></li>
-							<li class="ftco-animate"><a href="https://www.facebook.com/ieeedelhissn"><img src="/images/facebook.png" alt="LinkedIn" width="45" height="45" class="icon-image"></a></li>
-							<li class="ftco-animate"><a href="https://www.instagram.com/ieeedelhissn/"><img src="/images/instagram.png" alt="LinkedIn" width="45" height="45" class="icon-image"></a></li>
+						<li class="ftco-animate"><a href="https://"><img src="/images/linkedin.png" alt="LinkedIn" width="45" height="45" class="icon-image"></a></li>
+							<li class="ftco-animate"><a href="https://"><img src="/images/facebook.png" alt="LinkedIn" width="45" height="45" class="icon-image"></a></li>
+							<li class="ftco-animate"><a href="https://"><img src="/images/instagram.png" alt="LinkedIn" width="45" height="45" class="icon-image"></a></li>
 						</ul>
 					</div>
 				</div>
