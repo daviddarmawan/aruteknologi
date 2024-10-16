@@ -64,24 +64,23 @@
         </div>
         <div class="row block-9">
           <div class="col-md-6 order-md-last d-flex">
-            <form action="#" class="bg-light p-5 contact-form">
-              <div class="form-group">
-                <input type="text" class="form-control" placeholder="Nama">
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" placeholder="Email">
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" placeholder="Subjek">
-              </div>
-              <div class="form-group">
-                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Pesan"></textarea>
-              </div>
-              <div class="form-group">
-                <input type="submit" value="Kirim Pesan" class="btn btn-primary py-3 px-5">
-              </div>
-            </form>
-          
+          <form action="https://formspree.io/f/xgveepal" method="POST" class="bg-light p-5 contact-form">
+  <div class="form-group">
+    <input type="text" name="name" class="form-control" placeholder="Nama" required>
+  </div>
+  <div class="form-group">
+    <input type="email" name="email" class="form-control" placeholder="Email" required>
+  </div>
+  <div class="form-group">
+    <input type="text" name="subject" class="form-control" placeholder="Subjek" required>
+  </div>
+  <div class="form-group">
+    <textarea name="message" class="form-control" cols="30" rows="7" placeholder="Pesan" required></textarea>
+  </div>
+  <div class="form-group">
+    <button type="submit" class="btn btn-primary py-3 px-5">Kirim Pesan</button>
+  </div>
+</form>
           </div>
 
           <div class="col-md-6 d-flex">
