@@ -5730,11 +5730,18 @@ button.bg-dark:focus {
   -ms-flex-item-align: baseline !important;
   align-self: baseline !important; }
 
-.align-self-stretch {
-  -ms-flex-item-align: stretch !important;
-  -ms-grid-row-align: stretch !important;
-  align-self: stretch !important; }
-
+  .align-self-stretch {
+    align-self: center !important; /* Mengubah untuk menyelaraskan di tengah */
+    text-align: center; /* Menyelaraskan teks di tengah */
+}
+.services {
+    margin: 0 auto; /* Memastikan kontainer berada di tengah */
+}
+.icon {
+    display: flex;
+    justify-content: center; /* Memusatkan gambar */
+    margin-bottom: 10px; /* Jarak antara gambar dan teks */
+}
 @media (min-width: 576px) {
   .flex-sm-row {
     -webkit-box-orient: horizontal !important;
