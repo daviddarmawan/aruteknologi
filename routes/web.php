@@ -20,4 +20,5 @@ Route::get('/', function () {
 Route::get('/tentang', [App\Http\Controllers\TentangController::class, 'index']);
 Route::get('/kontak', [App\Http\Controllers\KontakController::class, 'index']);
 Route::get('/bergabung', [App\Http\Controllers\BergabungController::class, 'index']);
+Route::get('/terima-kasih', [TerimaKasihController::class, 'index'])->name('terima.kasih.index');
 

@@ -344,7 +344,7 @@ contactForm.addEventListener("submit", function (e) {
   })
     .then(() => {
       loader.style.display = "none";
-      window.location.href = "/thankyou.html";
+      window.location.href = "{{ route('terimakasih.index') }}";
     })
     .catch((e) => alert("Error occured"));
 });
