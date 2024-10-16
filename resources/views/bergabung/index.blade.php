@@ -43,14 +43,14 @@
         Your Browser Don't Support Canvas, Please Download Chrome ^_^``
     </canvas>
 
-    <div id="container-login" class="row" >
-      <div class="col-6" >
-        <a href="#whyJoin" class="btn btn-primary">Mengapa Bergabung?</a>
-      </div>
-      <div class="col-6">
-        <a href="https://wa.me/6282258280517" class="btn btn-primary">Jadilah Angota Kami</a>
-      </div>
-    </div>  
+    <div id="container-login" class="row justify-content-center">
+        <div class="col-12 col-md-4 mb-2"> <!-- Mengubah col-6 menjadi col-12 untuk ponsel -->
+            <a href="#whyJoin" class="btn btn-primary w-100">Mengapa Bergabung?</a>
+         </div>
+        <div class="col-12 col-md-4 mb-2"> <!-- Mengubah col-6 menjadi col-12 untuk ponsel -->
+            <a href="https://wa.me/6282258280517" class="btn btn-primary w-100">Bergabung Sekarang!</a>
+        </div>
+    </div>
 
         <script>
             var canvas = document.getElementById('nokey'),
