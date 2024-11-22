@@ -253,7 +253,7 @@
 						<div class="block-23 mb-3">
 							<ul>
 							<li><img src="/images/placeholder.png" width="25" height="25" class="icon-image" style="margin-right: 18px;"><span class="text">Jakarta, Indonesia</span></li>
-							<li><img src="/images/whatsapp.png" width="20" height="20" class="icon-image" style="margin-right: 22px;"><span class="text">+62 822-5828-0517</span></li>
+							<li><img src="/images/whatsapp.png" width="20" height="20" class="icon-image" style="margin-right: 22px;"><span class="text">+62 8953-8453-4608</span></li>
                             <li><img src="/images/email.png" width="22" height="22" class="icon-image" style="margin-right: 22px;"><span class="text">aruteknologi@gmail.com</span></li>
 							</ul>
 						</div>
