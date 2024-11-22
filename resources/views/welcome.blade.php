@@ -180,7 +180,7 @@
 		</div>
 	</section>
 
-	<section id="supporters" class="section-with-bg wow fadeInUp">
+	<!--section id="supporters" class="section-with-bg wow fadeInUp">
 
 		<div class="container">
 		  <div class="section-header">
@@ -221,7 +221,7 @@
 
 	<br>
 	<br>
-
+<!-->
 	<footer class="ftco-footer ftco-bg-dark ftco-section">
 		<div class="container">
 			<div class="row mb-5">
